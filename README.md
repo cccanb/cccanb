@@ -1,16 +1,30 @@
-## Hi there 👋
+### Andrii Binat
 
-<!--
-**cccanb/cccanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python / Django backend developer focused on SaaS systems, async architecture, and DevOps.
+Based in Bavaria, Germany.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+`Python` `Django` `Django REST Framework` `Celery` `Redis` `PostgreSQL`
+`Docker` `CI/CD` `Prometheus` `Grafana` `Vue.js` `TypeScript` `Azure DevOps`
+
+---
+
+**Focus areas**
+- Multi-tenant SaaS architecture
+- REST API design & third-party integrations
+- Async processing with Celery / Redis
+- Performance optimization (SQL, indexing)
+
+**Engineering principles**
+- Clean Code, SOLID, DDD / CQRS
+- Docker-first development
+- Observability & monitoring
+
+---
+
+📍 Holzkirchen, Bavaria, DE
+🔗 [LinkedIn](https://linkedin.com/in/andrii-binat-438ab5216)
+🇩🇪 DE  ·  🇬🇧 EN
